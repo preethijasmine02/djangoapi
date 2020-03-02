@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c082a11-4080-41ee-adee-cd488d6b28d9" name="Default Changelist" comment="" />
+    <list default="true" id="6c082a11-4080-41ee-adee-cd488d6b28d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/courses/serializers.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Y7IwNlwkaEO7KOAz25ttZGQhk6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +23,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/courses" />
   </component>
@@ -46,10 +55,11 @@
       <screen x="0" y="23" width="1920" height="978" />
     </state>
     <state x="808" y="302" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.978@0.23.1920.978" timestamp="1582527808439" />
-    <state x="732" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1582786709361">
-      <screen x="0" y="23" width="1920" height="980" />
+    <state x="732" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1583140583810">
+      <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state x="732" y="326" key="com.intellij.ide.util.TipDialog/0.23.1920.978@0.23.1920.978" timestamp="1582612516083" />
     <state x="732" y="327" key="com.intellij.ide.util.TipDialog/0.23.1920.980@0.23.1920.980" timestamp="1582786709361" />
+    <state x="732" y="328" key="com.intellij.ide.util.TipDialog/0.23.1920.982@0.23.1920.982" timestamp="1583140583810" />
   </component>
 </project>
